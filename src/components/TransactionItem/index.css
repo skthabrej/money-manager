@@ -1,0 +1,9 @@
+.transcation-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-all {
+    color: rgba(162, 172, 181, 0.723);
+    font-weight: bold;
+}

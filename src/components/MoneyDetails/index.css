@@ -14,6 +14,7 @@
     height: 31%;
     width: 31%;
     padding-top: 10px;
+    border: 1px solid #7e858e;
 }
 
 .amount-card-2 {
@@ -26,6 +27,7 @@
     height: 31%;
     width: 31%;
     padding-top: 10px;
+    border: 1px solid #7e858e;
 }
 
 .amount-card-3 {
@@ -38,6 +40,7 @@
     height: 31%;
     width: 31%;
     padding-top: 8px;
+    border: 1px solid #7e858e;
 }
 
 .all-images {
