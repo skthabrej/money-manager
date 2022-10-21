@@ -1,0 +1,54 @@
+.all-amount-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.amount-card-1 {
+    background-color: rgb(255, 255, 183);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-right: 25px;
+    height: 31%;
+    width: 31%;
+    padding-top: 10px;
+}
+
+.amount-card-2 {
+    background-color: rgb(158, 255, 200);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-right: 25px;
+    height: 31%;
+    width: 31%;
+    padding-top: 10px;
+}
+
+.amount-card-3 {
+    background-color: rgb(240, 189, 255);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-right: 7px;
+    height: 31%;
+    width: 31%;
+    padding-top: 8px;
+}
+
+.all-images {
+    height: 24%;
+    width: 24%;
+}
+
+.all-card-headings {
+    font-size: 15px;
+}
+
+.all-card-paragraphs {
+    font-size: 20px;
+}

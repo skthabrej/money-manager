@@ -1,0 +1,40 @@
+.bg-container {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container {
+    background-color: rgb(178, 237, 237);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 80%;
+    width: 80%;
+    padding: 35px;
+}
+
+.top-card {
+    background-color: rgba(234, 234, 234, 0.76);
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.main-heading {
+    color: rgb(67, 30, 255);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main-paragraph {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.highlight-element {
+    color: rgb(0, 201, 0);
+    font-size: 21px;
+    font-weight: bold;
+}
