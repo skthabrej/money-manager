@@ -1,6 +1,6 @@
 import './index.css'
 
-const deleteimg = "https://assets.ccbp.in/frontend/react-js/money-manager/delete.png"
+const deleteimg = "https://i.postimg.cc/HW4M7V54/delete.png"
 
 const TransactionItem = props => {
     const {historyItem,deleteFunction} = props
@@ -18,7 +18,7 @@ const TransactionItem = props => {
             <p className="details-all">{type}</p>
             <p className="details-all">{salary}</p>
             <button className="btn-style" onClick={onDeleteButton}>
-                <img src={deleteimg} className="delete-img" />
+                <img src={deleteimg} className="delete-img" alt='delete'/>
             </button>
         </div>
     )
